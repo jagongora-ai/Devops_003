@@ -24,10 +24,9 @@
         <maven.compiler.target>17</maven.compiler.target>
         <maven.compiler.release>17</maven.compiler.release>
         <!-- SonarCloud -->
-        <sonar.projectKey>rodrigoseguelb_mysql-local-2.4</sonar.projectKey>
-        <sonar.organization>rodrigoseguelb</sonar.organization>
+        <sonar.projectKey>Javier_Dumfer_Devops_003</sonar.projectKey>
+        <sonar.organization>Javier_Dumfer</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-        <sonar.projectName>mysql-local-2.4</sonar.projectName>
     </properties>
 
     <dependencies>
