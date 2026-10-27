@@ -13,7 +13,7 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/students")
-@CrossOrigin(origins = "*")
+@CrossOrigin(origins = "http://localhost:3000") // Reemplaza con la URL real de tu cliente/frontend
 public class StudentController {
 
     @Autowired
